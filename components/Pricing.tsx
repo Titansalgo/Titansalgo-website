@@ -33,8 +33,8 @@ const tiers: Tier[] = [
       { text: "Personal Guidance", status: true },
       { text: "Quick Support", status: true },
     ],
-    monthlyLink: "https://whop.com/checkout/plan_3rKocQWXgM3JA?d2c=true",
-    yearlyLink: "https://whop.com/checkout/plan_TAOGLIObc6dVK?d2c=true",
+    monthlyLink: "https://whop.com/checkout/plan_3rKocQWXgM3JA/",
+    yearlyLink: "https://whop.com/checkout/plan_LVP71YhyYZZ1v/",
   },
   {
     name: "Titans Algo Pro+",
@@ -51,8 +51,8 @@ const tiers: Tier[] = [
       { text: "Personal Guidance", status: true },
       { text: "Quick Support", status: true },
     ],
-    monthlyLink: "https://whop.com/checkout/plan_xkWisN8GDUDM9?d2c=true",
-    yearlyLink: "https://whop.com/checkout/plan_qoNfECSq0hK7o?d2c=true",
+    monthlyLink: "https://whop.com/checkout/plan_xkWisN8GDUDM9/",
+    yearlyLink: "https://whop.com/checkout/plan_pZUlAJWAX1q1U/",
   },
 ];
 
