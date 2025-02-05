@@ -21,8 +21,8 @@ const tiers: Tier[] = [
   {
     name: "Titans Algo Pro",
     monthlyPrice: 99,
-    yearlyPrice: 690,
-    yearlyDiscount: 43,
+    yearlyPrice: 588,
+    yearlyDiscount: 50,
     description: "For an experience without limits",
     features: [
       { text: "Premium Indicator", status: true },
@@ -39,8 +39,8 @@ const tiers: Tier[] = [
   {
     name: "Titans Algo Pro+",
     monthlyPrice: 189,
-    yearlyPrice: 690,
-    yearlyDiscount: 70,
+    yearlyPrice: 948,
+    yearlyDiscount: 60,
     description: "Everything in Pro plus",
     features: [
       { text: "Premium Indicator", status: true },
