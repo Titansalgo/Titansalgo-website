@@ -68,7 +68,7 @@ const Dashboard: React.FC = () => {
             <div className="flex flex-col lg:flex-row gap-12 ">
               <div className="lg:w-1/2 space-y-6">
                 <h2 className="text-4xl md:text-5xl mb-12 font-semibold">
-                  High Winrate <span className="text-cyan-400"> Signal</span>
+                  High Winrate <span className="text-purple-300"> Signal</span>
                 </h2>
                 <p className="text-white text-xl">
                   With over 85% accuracy on monthly basis, titans algo sureshot
@@ -92,7 +92,7 @@ const Dashboard: React.FC = () => {
                   <span className="inline sm:hidden">
                     <br />
                   </span>
-                  <span className="text-cyan-400"> executable</span>
+                  <span className="text-blue-300"> executable</span>
                 </h2>
                 <p className="text-white text-xl">
                   Each signal includes precise entry points, take profit levels,
@@ -114,7 +114,7 @@ const Dashboard: React.FC = () => {
               <div className="lg:w-1/2 space-y-6">
                 <h2 className="text-4xl md:text-5xl mb-12 font-semibold">
                   Expert market analysis,
-                  <span className="text-cyan-400"> pro-trade entries</span>
+                  <span className="text-pink-300"> pro-trade entries</span>
                 </h2>
                 <p className="text-white text-xl">
                   Get access to our exclusive Discord community, where you can
@@ -136,7 +136,7 @@ const Dashboard: React.FC = () => {
               <div className="lg:w-1/2 space-y-6">
                 <h2 className="text-4xl md:text-5xl mb-12 font-semibold">
                   Copy Trading,{" "}
-                  <span className="text-cyan-400"> Account Management</span>
+                  <span className="text-red-200"> Account Management</span>
                 </h2>
                 <p className="text-white text-xl">
                   Unlock premium access to copy trading and account management,
