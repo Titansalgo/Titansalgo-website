@@ -49,8 +49,8 @@ const CompareComp = () => {
       {/* Compare component */}
       <div className="p-4 rounded-3xl">
         <Compare
-          firstImage="https://message.style/cdn/images/6ff940fae6913bd5dbd663309501bfb2602d4a60a79e7a129a7172426543749e.png"
-          secondImage="https://message.style/cdn/images/24ebcfb8e66c4920147b6ec7f6a1ffb6ba667fc1d47783ab08223623c05e869d.png"
+          firstImage="https://ibb.co/1fY37wS6"
+          secondImage="https://ibb.co/JW8zD8x5"
           firstImageClassName="object-fill object-left-top"
           secondImageClassname="object-fill object-left-top"
           className="h-[250px] w-[400px] sm:h-[350px] sm:w-[600px] md:h-[500px] md:w-[900px]"
