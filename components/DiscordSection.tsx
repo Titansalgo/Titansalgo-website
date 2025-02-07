@@ -75,7 +75,7 @@ const DiscordSection = () => {
         {/* Join Button */}
         <div className="mt-8 flex justify-center">
           <a
-            href="https://discord.gg/Z9rRQaAK"
+            href="https://discord.gg/6WrP7CXnHd"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-lg bg-white px-8 py-3 text-black hover:bg-gray-100 transition-colors font-medium"

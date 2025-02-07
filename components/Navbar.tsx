@@ -48,7 +48,7 @@ const Navbar = () => {
               Results
             </a>
             <a
-              href="https://discord.gg/Z9rRQaAK"
+              href="https://discord.gg/6WrP7CXnHd"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -145,7 +145,7 @@ const Navbar = () => {
               Results
             </a>
             <a
-              href="https://discord.gg/Z9rRQaAK"
+              href="https://discord.gg/6WrP7CXnHd"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-gray-300 transition-colors"

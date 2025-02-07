@@ -102,7 +102,7 @@ const SpotlightHero = () => {
 
             <div className="flex flex-col sm:flex-row gap-4 mt-6">
               <a
-                href="https://discord.gg/Z9rRQaAK"
+                href="https://discord.gg/6WrP7CXnHd"
                 target="_blank"
                 rel="noopener noreferrer"
               >
