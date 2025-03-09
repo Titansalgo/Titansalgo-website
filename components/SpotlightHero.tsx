@@ -17,6 +17,7 @@ const SpotlightHero = () => {
                     id="tsparticlesfullpage"
                     background="transparent"
                     minSize={0.6}
+                    jitter={0.5}
                     maxSize={1.4}
                     particleDensity={40}
                     className="w-full h-full"
